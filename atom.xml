@@ -4,7 +4,7 @@
   <title><![CDATA[Blog of dastin1015]]></title>
   <link href="http://dastin1015.github.com/atom.xml" rel="self"/>
   <link href="http://dastin1015.github.com/"/>
-  <updated>2013-03-25T12:31:27-07:00</updated>
+  <updated>2013-03-25T12:34:19-07:00</updated>
   <id>http://dastin1015.github.com/</id>
   <author>
     <name><![CDATA[Dorian Snyder]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First blog]]></title>
+    <link href="http://dastin1015.github.com/blog/2013/03/25/first-blog/"/>
+    <updated>2013-03-25T12:32:00-07:00</updated>
+    <id>http://dastin1015.github.com/blog/2013/03/25/first-blog</id>
+    <content type="html"><![CDATA[<p>This is some test text</p>
+]]></content>
+  </entry>
   
 </feed>
